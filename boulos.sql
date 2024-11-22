@@ -30,7 +30,7 @@ SET
 --
 -- Estrutura para tabela `bolos`
 --
-CREATE DATABASE IF NOT EXISTS `bolos`;
+CREATE OR REPLACE DATABASE  `bolos`;
 
 USE `bolos`;
 
