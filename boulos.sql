@@ -94,3 +94,23 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('chocolate', '0', '1', 'chocolate', '1', 'chocolate.jpg');
+
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('morango', '0', '2', 'morango', '2', 'morango.jpg');
+
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('limao', '0', '3', 'limao', '3', 'limao.jpg');
+
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('amora', '0', '4', 'amora', '4', 'amora.jpg');
+
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('abacaxi', '0', '5', 'abacaxi', '5', 'abacaxi.jpg');
+
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('banana', '0', '6', 'banana', '6', 'banana.jpg');
+
+
+insert into bolos (nome, votos, sabor, descricao, idBolo, imagem) values ('uva', '0', '7', 'uva', '7', 'uva.jpg');
